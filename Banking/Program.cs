@@ -22,9 +22,10 @@ namespace Banking {
             acct2.Transfer(100, acct1);
             acct1.Debug();
             acct2.Debug();
+            acct2.Debug();
 
 
-            
+
 
 
 
